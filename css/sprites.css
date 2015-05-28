@@ -1,0 +1,108 @@
+/* ////////////////////////////////////////////////////// */
+
+
+/*	 SPRITES	*/
+
+.sprite {
+    background-image: url('../img/spritesheet.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-arrow-down:after {
+    width: 18px;
+    height: 29px;
+    background-position: -10px -10px;
+}
+
+.sprite-icon-baloon-question {
+    width: 40px;
+    height: 34px;
+    background-position: -48px -10px;
+}
+
+.sprite-icon-binoculars {
+    width: 72px;
+    height: 34px;
+    background-position: -108px -10px;
+}
+
+.sprite-icon-camera {
+    width: 65px;
+    height: 50px;
+    background-position: -10px -64px;
+}
+
+.sprite-icon-flight-baloon {
+    width: 44px;
+    height: 65px;
+    background-position: -95px -64px;
+}
+
+.sprite-icon-form-phone {
+    width: 19px;
+    height: 19px;
+    background-position: -200px -10px;
+}
+
+.sprite-icon-form-user {
+    width: 15px;
+    height: 15px;
+    background-position: -200px -49px;
+}
+
+.sprite-icon-letter {
+    width: 23px;
+    height: 17px;
+    background-position: -159px -84px;
+}
+
+.sprite-icon-like {
+    width: 56px;
+    height: 58px;
+    background-position: -159px -121px;
+}
+
+.sprite-icon-location-pin {
+    width: 35px;
+    height: 50px;
+    background-position: -239px -10px;
+}
+
+.sprite-icon-nav {
+    width: 20px;
+    height: 34px;
+    background-position: -235px -80px;
+}
+
+.sprite-icon-plain {
+    width: 62px;
+    height: 62px;
+    background-position: -10px -134px;
+}
+
+.sprite-icon-social-fb {
+    width: 22px;
+    height: 23px;
+    background-position: -235px -134px;
+}
+
+.sprite-icon-social-ig {
+    width: 22px;
+    height: 23px;
+    background-position: -92px -177px;
+}
+
+.sprite-icon-social-vk {
+    width: 22px;
+    height: 23px;
+    background-position: -235px -177px;
+}
+
+.sprite-icon-sunglasses {
+    width: 75px;
+    height: 28px;
+    background-position: -134px -199px;
+}
+
+/* ////////////////////////////////////////////////////// */ 
